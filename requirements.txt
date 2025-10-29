@@ -1,0 +1,14 @@
+# torch==2.5.1+cu121 # pip install --index-url https://download.pytorch.org/whl/cu121 torch==2.5.1
+transformers==4.48.2 # Comment out torch, then pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
+datasets==3.4.1
+accelerate==1.6.0
+peft==0.15.0
+trl==0.16.1
+pandas==2.2.3
+rich==13.9.4
+tqdm>=4.65.0
+fire==0.7.0
+requests==2.32.3
+vllm==0.7.3
+deepspeed==0.15.4
+openai==1.99.9
