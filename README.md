@@ -404,3 +404,6 @@ python compare_model/deepseek.py \
   - `generate_prompts.py` - 生成训练prompts
   - `get_response_by_deepseek.py` - 使用DeepSeek API生成responses
   - `process_sft_data.py` - 处理SFT训练数据
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
