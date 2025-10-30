@@ -1,4 +1,4 @@
-./compare_model/rrec_checkpoint/
+compare_model/rrec_checkpoint/
 
 # 操作系统文件
 .DS_Store
